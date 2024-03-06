@@ -1,10 +1,11 @@
 {
   "province": [
+    { "idProvince": "95", "name": "Bạc Liêu" },
+    { "idProvince": "92", "name": "Cần Thơ" },
     { "idProvince": "01", "name": "Hà Nội" },
     { "idProvince": "79", "name": "Hồ Chí Minh" },
     { "idProvince": "31", "name": "Hải Phòng" },
     { "idProvince": "48", "name": "Đà Nẵng" },
-    { "idProvince": "92", "name": "Cần Thơ" },
     { "idProvince": "02", "name": "Hà Giang" },
     { "idProvince": "04", "name": "Cao Bằng" },
     { "idProvince": "06", "name": "Bắc Kạn" },
@@ -61,7 +62,6 @@
     { "idProvince": "91", "name": "Kiên Giang" },
     { "idProvince": "93", "name": "Hậu Giang" },
     { "idProvince": "94", "name": "Sóc Trăng" },
-    { "idProvince": "95", "name": "Bạc Liêu" },
     { "idProvince": "96", "name": "Cà Mau" }
   ],
   "district": [
